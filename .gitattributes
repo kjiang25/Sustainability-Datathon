@@ -1,0 +1,9 @@
+data_and_starter_code/train_features.csv filter=lfs diff=lfs merge=lfs -text
+data_and_starter_code/data/historical_weather.csv filter=lfs diff=lfs merge=lfs -text
+data_and_starter_code/data/train.csv filter=lfs diff=lfs merge=lfs -text
+data_and_starter_code/data/weather_station_to_county_mapping.csv filter=lfs diff=lfs merge=lfs -text
+data_and_starter_code/data/client.csv filter=lfs diff=lfs merge=lfs -text
+data_and_starter_code/data/county_lon_lats.csv filter=lfs diff=lfs merge=lfs -text
+data_and_starter_code/data/electricity_prices.csv filter=lfs diff=lfs merge=lfs -text
+data_and_starter_code/data/forecast_weather.csv filter=lfs diff=lfs merge=lfs -text
+data_and_starter_code/data/gas_prices.csv filter=lfs diff=lfs merge=lfs -text
